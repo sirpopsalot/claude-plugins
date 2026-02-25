@@ -1,0 +1,20 @@
+{
+  "name": "sirpopsalot-plugins",
+  "owner": {
+    "name": "Erica Hruby"
+  },
+  "plugins": [
+    {
+      "name": "freelance-finance-tracker",
+      "source": "./plugins/freelance-finance-tracker",
+      "description": "Freelance finance tracking plugin",
+      "strict": false
+    },
+    {
+      "name": "triathlon-coach",
+      "source": "./plugins/triathlon-coach",
+      "description": "Triathlon coaching plugin",
+      "strict": false
+    }
+  ]
+}
