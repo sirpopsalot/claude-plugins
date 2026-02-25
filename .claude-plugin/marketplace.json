@@ -15,6 +15,12 @@
       "source": "./plugins/triathlon-coach",
       "description": "Triathlon coaching plugin",
       "strict": false
+    },
+    {
+      "name": "daily-ai-briefing",
+      "source": "./plugins/daily-ai-briefing",
+      "description": "Daily AI news briefing generator",
+      "strict": false
     }
   ]
 }
