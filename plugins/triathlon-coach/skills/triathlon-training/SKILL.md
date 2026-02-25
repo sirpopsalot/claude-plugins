@@ -95,3 +95,4 @@ When user reports missed workouts or pain:
 
 - `references/user-profile.md` — Goals, events, baseline, equipment, constraints
 - `references/workouts.md` — Exercise library with exact routines
+- `references/routes.md` — Cycling route options with distances and elevation
