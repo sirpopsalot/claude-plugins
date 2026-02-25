@@ -1,0 +1,14 @@
+{
+  "name": "sirpopsalot-plugins",
+  "owner": {
+    "name": "Erica Hruby"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./plugins/my-plugin",
+      "description": "My custom plugin",
+      "strict": false
+    }
+  ]
+}
